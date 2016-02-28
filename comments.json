@@ -1,12 +1,42 @@
 [
     {
+        "text": "Hey there, I love hammers! And nails!",
         "id": 1388534400000,
-        "author": "Pete Hunt",
-        "text": "Hey there!"
+        "author": "Pete Hunt"
     },
     {
+        "text": "React is *great*!",
         "id": 1420070400000,
-        "author": "Paul O’Shannessy",
-        "text": "React is *great*!"
+        "author": "Paul O\u2019Shannessy"
+    },
+    {
+        "text": "Fucking tools",
+        "id": 1456699390713,
+        "author": "Mike"
+    },
+    {
+        "text": "Dangeeerrrrr zoooone",
+        "id": 1456699411477,
+        "author": "Sterling Archer"
+    },
+    {
+        "text": "Whaaaaat?!",
+        "id": 1456700048099,
+        "author": "Lana Kane"
+    },
+    {
+        "text": "Whaaaaat?!",
+        "id": 1456700050435,
+        "author": "Lana Kane"
+    },
+    {
+        "text": "Whaaaaat?!",
+        "id": 1456700136288,
+        "author": "Lana Kane"
+    },
+    {
+        "text": "Your words",
+        "id": 1456700411147,
+        "author": "Mallory Archer"
     }
 ]
